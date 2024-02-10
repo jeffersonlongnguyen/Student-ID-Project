@@ -1,4 +1,4 @@
-# Student-ID-Project
+# Class Roster Project
 WGU C867 Performance Assessment Fall 2023
 
 Programming Language: C++
